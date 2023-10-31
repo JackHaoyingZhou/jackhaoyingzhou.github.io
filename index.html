@@ -67,15 +67,15 @@
     <!-- End #lead -->
 
     <div id="about">
-<!--        <h2 class="heading">About Me</h2>-->
+        <h2 class="heading">About Me</h2>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <h2 class="heading">About Me</h2>
-                </div>
 <!--                <div class="col-md-4">-->
-<!--                    <img class="portrait" src="assets/profile_photo.jpg" alt="portrait image" height="200" width="133">-->
+<!--                    <h2 class="heading">About Me</h2>-->
 <!--                </div>-->
+                <div class="col-md-4">
+                    <img class="portrait" src="assets/profile_photo.jpg" alt="portrait image" height="200" width="133">
+                </div>
                 <div class="col-md-8">
                     <p>
                         I' m a third-year Robotics Engineering Ph.D.student working in AIM Lab at Worcester Polytechnic Institute.
@@ -259,6 +259,32 @@
         </div>
     </div>
     <!-- End #projects -->
+
+     <!-- Different media viewers -->
+
+    <!-- image viewer -->
+    <div class="overlay-viewer" id="image-viewer">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="full-image">
+    </div>
+    <!-- End of image viewer -->
+
+    <!-- video viewer -->
+    <div class="overlay-viewer" id="video-viewer">
+        <span class="close">&times;</span>
+        <video id="full-video" class="modal-content" controls autoplay loop src="#">
+            Your browser does not support HTML5 video element.
+        </video>
+    </div>
+    <!-- End of video viewer -->
+
+<!--    &lt;!&ndash; glb viewer &ndash;&gt;-->
+<!--    <div class="overlay-viewer" id="glb-viewer">-->
+<!--        <span class="close">&times;</span>-->
+<!--        <model-viewer id="full-glb" class="glb-content" src="#" autoplay ar shadow-intensity="1" camera-controls-->
+<!--            auto-rotate></model-viewer>-->
+<!--    </div>-->
+    <!-- End of glb viewer -->
 
     <div id="skills">
         <h2 class="heading">Skills</h2>
