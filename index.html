@@ -37,6 +37,9 @@
                 <a href="#projects">Projects</a>
             </li>
             <li>
+                <a href="#publication">Publications</a>
+            </li>
+            <li>
                 <a href="#skills">Skills</a>
             </li>
             <li>
@@ -66,7 +69,7 @@
     </div>
     <!-- End #lead -->
 
-    <div id="about">
+    <div id="about" class="background">
         <h2 class="heading">About Me</h2>
         <div class="container">
             <div class="row">
@@ -74,16 +77,17 @@
 <!--                    <h2 class="heading">About Me</h2>-->
 <!--                </div>-->
                 <div class="col-md-4">
-                    <img class="portrait" src="assets/profile_photo.jpg" alt="portrait image" width="50%">
+                    <img class="portrait" src="images/profile_photo.jpg" alt="portrait image" width="50%">
 <!--                    height="200" width="133"-->
                 </div>
                 <div class="col-md-8">
                     <p>
                         I' m a third-year Robotics Engineering Ph.D.student working in AIM Lab at Worcester Polytechnic Institute.
-                        I have been worked with dVRK (da Vinci Research Kit) closely for two years.
+                        I have been worked with dVRK (da Vinci Research Kit) closely.
                         <br>
                         My concentration is robotics, system control and learning from demonstration.
                         My research mainly focus on exoskeleton and surgical robot control system simulation, optimization and automation.
+                        I also have various experience on medical imaging, such as GUI construction using PyQt and data analysis on DICOM datasets.
                         I am currently working on imitation learning with da Vinci surgical system.
                         <br>
                         I'm seeking for summer 2024 Intern.
@@ -145,7 +149,7 @@
                     dynamic identification, customized controller teleoperation, kinematic & dynamic controller design
                     and customized tool integration.
                     <br>
-                    - Reactivate a full da Vinci surgical system with dVRK software framework, actively repair, maintenance
+                    - Reactivate a full da Vinci surgical system with dVRK software framework; actively repair, maintenance
                     and improve both hardware and software infrastructures.
                     <br>
                     - Integrate probe for photoacoustic scanning on dVRK PSM (patient side manipulator) with auto-scanning enabled.
@@ -155,11 +159,19 @@
                     - Implement suturing subtask automation with learning from demonstrations in simulation.
                 </p>
             </div>
+
+            <div data-date="Sep 2020 – May 2021">
+                <h3>Worcester Polytechnic Institute</h3>
+                <h4>Teaching Assistant</h4>
+                <p>
+                    TBW
+                </p>
+            </div>
         </div>
     </div>
     <!-- End #experience -->
 
-    <div id="education">
+    <div id="education" class="background">
         <h2 class="heading">Education</h2>
         <div class="education-block">
             <h3>Worcester Polytechnic Institute</h3>
@@ -224,62 +236,331 @@
     <!-- End #education -->
 
     <div id="projects" class="background-alt">
-        <h2 class="heading">Projects</h2>
+        <h2 class="heading">Research Projects</h2>
         <div class="container">
-            <div class="row">
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="images/project.jpg" />
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>Project Name Here</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-                        </p>
-                        <a href="#">View Project</a>
-                    </div>
-                    <!-- End .project-info -->
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/simulation_3dmed.png" width="300" height="300"/>
                 </div>
-                <!-- End .project -->
-
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="images/project.jpg" />
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>Project Name Here</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-                        </p>
-                        <a href="#">View Project</a>
-                    </div>
-                    <!-- End .project-info -->
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Suturing Automation based on Imitation Learning</h3>
+                    <h4>WPI AIM Lab & JHU LCSR</h4>
+<!--                    , Sep 2022 - Present-->
+                    <p>
+                        test
+                    </p>
+                    <a href="#">View Project</a>
                 </div>
-                <!-- End .project -->
+                <!-- End .project-info -->
             </div>
+            <!-- End .project -->
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/suture_needle_est_example.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Suture Needle Pose Estimation in Simulation</h3>
+                    <h4>WPI AIM Lab & JHU LCSR</h4>
+<!--                    , Sep 2022 - Mar 2023-->
+                    <p>
+                       test
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/point_cloud_examples.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Point Cloud Completion</h3>
+                    <h4>WPI VISLab</h4>
+<!--                    , May 2023 - Nov 2023-->
+                    <p>
+                        -Purpose a novel chamfer distance loss function for point cloud completion task using Landau distribution
+                        <br>
+                        -Achieve some new state-of-the-art results on some benchmark datasets
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/PA_scan_examples.jpg" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>dVRK Customized Photoacoustic Scanning Instrument Integration and Automation</h3>
+                    <h4>WPI AIM Lab & WPI FUSION Lab</h4>
+<!--                    , Feb 2022 - May 2023-->
+                    <p>
+                       test
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/sEMG_example.jpg" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>dVRK PSM Teleoperation using sEMG Proportional Control</h3>
+                    <h4>WPI AIM Lab</h4>
+<!--                    , Dec 2021 - Mar 2023-->
+                    <p>
+                       test
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/exoskeletion_example.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Lower Limb Exoskeleton Automation based on Learning from Demonstration</h3>
+                    <h4>WPI AIM Lab</h4>
+<!--                    , Sep 2020 - Mar 2021-->
+                    <p>
+                        test
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/bu_IL_example.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Reach-to-Grasp Imitation Learning</h3>
+                    <h4>BU Robotics Lab</h4>
+<!--                    , Nov 2018 - May 2020-->
+                    <p>
+                        test
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+            <!-- End .project -->
+        </div>
+
+        <h2 class="heading">Technical Projects</h2>
+        <div class="container">
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/dVSS.jpeg" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Physical dVRK Reactivation</h3>
+                    <h4>Worcester Polytechnic Institute</h4>
+<!--                    , Apr 2021 - Feb 2022-->
+                    <p>
+                        -Deploy both hardware and software infrastructures of <a href="https://research.intusurg.com/index.php/Main_Page">dVRK</a>
+                        <br>
+                        -Resolve multiple mechanical failures for components of the da Vinci Surgical System, including broken joint encoders and joint brakes
+                        <br>
+                        -Upgrade the stereo viewer of the da Vinci Surgical System
+                        <br>
+                        -Implement full dVRK system teleoperation using MTM and dVRK control boxes
+                    </p>
+<!--                        <a href="#">View Project</a>-->
+                </div>
+                <!-- End .project-info -->
+            </div>
+            <!-- End .project -->
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/tool_clean_sol.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Surgical Instrument Lubrication</h3>
+                    <h4>Worcester Polytechnic Institute</h4>
+<!--                    , Oct 2021 - Feb 2022-->
+                    <p>
+                        -Develop a practical method to lubricate the surgical instruments of the first generation da Vinci Surgical system
+                        <br>
+                        -Tighten the internal cables of the instruments to enable solid grasping solutions
+                        <br>
+                        -Decrease the mechanical noise due to the instruments by two or three orders of magnitude
+                    </p>
+<!--                    <a href="#">View Project</a>-->
+                </div>
+                <!-- End .project-info -->
+            </div>
+            <!-- End .project -->
+        </div>
+
+        <h2 class="heading">Selected Course Projects</h2>
+        <div class="container">
+<!--            <div class="project shadow-large">-->
+<!--                <div class="project-image">-->
+<!--                    <img src="images/barc_example.png" width="300" height="300"/>-->
+<!--                </div>-->
+<!--                &lt;!&ndash; End .project-image &ndash;&gt;-->
+<!--                <div class="project-info">-->
+<!--                    <h3>Autonomous Race Car Modelling and Control</h3>-->
+<!--                    <h4>University of California, Berkeley</h4>-->
+<!--                    <p>-->
+<!--                        test-->
+<!--                    </p>-->
+<!--                    <a href="#">View Project</a>-->
+<!--                </div>-->
+<!--                &lt;!&ndash; End .project-info &ndash;&gt;-->
+<!--            </div>-->
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/UAV_control_example.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Adaptive Robustness Control Design for UAV with ROS Gazebo</h3>
+                    <h4>Worcester Polytechnic Institute</h4>
+                    <p>
+                        test
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/barc_example.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Autonomous Race Car Modelling and Control</h3>
+                    <h4>University of California, Berkeley</h4>
+                    <p>
+                        test
+                    </p>
+                    <a href="#">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+            <!-- End .project -->
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/tri_bot_example.png" width="300" height="300"/>
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Tri-Bot Design and Manufacturing</h3>
+                    <h4>University of California, Berkeley</h4>
+                    <p>
+                        test
+                    </p>
+                    <a href="https://sites.google.com/berkeley.edu/tri-bot-com/home">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+            <!-- End .project -->
+        </div>
+
+        <h2 class="heading">Other Selected Projects</h2>
+        <div class="optional-section-block">
+            <ul>
+                <li>
+                    Laboratory Animal Surgery, Worcester Polytechnic Institute
+                </li>
+                <li>
+                    FaceSwap and 3D Reconstruction(NeRF) Implementation, Worcester Polytechnic Institute
+                </li>
+                <li>
+                    Visual Inertial Odometry with Multi-Scale Constraint Kalman Filter, Worcester Polytechnic Institute
+                </li>
+                <li>
+                    Hand Gesture Recognition for Numbers, Boston University
+                </li>
+                <li>
+                    Bubble Recognition using Matlab, University of California, Berkeley
+                </li>
+            </ul>
         </div>
     </div>
+
+    <div id="publication" class="optional-section background">
+        <h2 class="heading">Academic Publications</h2>
+        <div class="optional-section-block">
+            <ol>
+                <li>
+                    Gao, Shang, Yang Wang, Xihan Ma, <strong>Haoying Zhou</strong>, Yiwei Jiang, Kehan Yang, Liang Lu et al.
+                    <a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-9-4914&id=536903">"Intraoperative laparoscopic
+                        photoacoustic image guidance system in the da Vinci surgical system."</a>
+                    <em>Biomedical optics express</em> 14, no. 9 (2023): 4914-4928.
+                </li>
+                <li>
+                    Gao, Shang, Yang Wang, <strong>Haoying Zhou</strong>, Kehan Yang, Yiwei Jiang, Liang Lu, Shiyue Wang et al.
+                    <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12466/1246609/Laparoscopic-photoacoustic-imaging-system-integrated-with-the-da-Vinci-surgical/10.1117/12.2653967.short?SSO=1">
+                        "Laparoscopic photoacoustic imaging system integrated with the da Vinci surgical system."</a>
+                    In <em>Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions, and Modeling</em>, vol. 12466, pp. 62-70. SPIE, 2023.
+                </li>
+                <li>
+                    Jiang, Yiwei, <strong>Haoying Zhou</strong>, and Gregory S. Fischer.
+                    <a href="https://ieeexplore.ieee.org/abstract/document/10130199">"Markerless Suture Needle Tracking From A Robotic Endoscope Based On Deep Learning." </a>
+                    In <em>2023 International Symposium on Medical Robotics (ISMR)</em>, pp. 1-7. IEEE, 2023.
+                </li>
+                <li>
+                    Yang, Kehan, Tess B. Meier, <strong>Haoying Zhou</strong>, Gregory S. Fischer, and Christopher J. Nycz.
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9871664">"A sEMG Proportional Control for the Gripper of Patient Side Manipulator in da Vinci Surgical System."</a>
+                    In <em>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</em>, pp. 4843-4848. IEEE, 2022.
+                </li>
+                <li>
+                    Goldfarb, Nathaniel, <strong>Haoying Zhou</strong>, Charles Bales, and Gregory S. Fischer.
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9630810">"Control of a lower limb exoskeleton
+                        using Learning from Demonstration and an iterative Linear Quadratic Regulator Controller: A simulation study."</a>
+                    In <em>2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</em>, pp. 4687-4693. IEEE, 2021.
+                </li>
+            </ol>
+        </div>
+        <p>
+            ** Some publications submitted in 2023 are still under review. The list of publications will be updated when the decisions are made.
+        </p>
+    </div>
+
+
     <!-- End #projects -->
 
      <!-- Different media viewers -->
 
-    <!-- image viewer -->
-    <div class="overlay-viewer" id="image-viewer">
-        <span class="close">&times;</span>
-        <img class="modal-content" id="full-image">
-    </div>
-    <!-- End of image viewer -->
+<!--    &lt;!&ndash; image viewer &ndash;&gt;-->
+<!--    <div class="overlay-viewer" id="image-viewer">-->
+<!--        <span class="close">&times;</span>-->
+<!--        <img class="modal-content" id="full-image">-->
+<!--    </div>-->
+<!--    &lt;!&ndash; End of image viewer &ndash;&gt;-->
 
-    <!-- video viewer -->
-    <div class="overlay-viewer" id="video-viewer">
-        <span class="close">&times;</span>
-        <video id="full-video" class="modal-content" controls autoplay loop src="#">
-            Your browser does not support HTML5 video element.
-        </video>
-    </div>
-    <!-- End of video viewer -->
+<!--    &lt;!&ndash; video viewer &ndash;&gt;-->
+<!--    <div class="overlay-viewer" id="video-viewer">-->
+<!--        <span class="close">&times;</span>-->
+<!--        <video id="full-video" class="modal-content" controls autoplay loop src="#">-->
+<!--            Your browser does not support HTML5 video element.-->
+<!--        </video>-->
+<!--    </div>-->
+<!--    &lt;!&ndash; End of video viewer &ndash;&gt;-->
 
 <!--    &lt;!&ndash; glb viewer &ndash;&gt;-->
 <!--    <div class="overlay-viewer" id="glb-viewer">-->
@@ -289,14 +570,23 @@
 <!--    </div>-->
     <!-- End of glb viewer -->
 
-    <div id="skills">
+    <div id="skills" class="background-alt">
         <h2 class="heading">Skills</h2>
         <ul>
             <li>Robotics</li>
             <li>Surgical Robotics</li>
             <li>Research and Development(R&D)</li>
+            <li>dVRK(da Vinci Research Kit)</li>
+            <li>AMBF(Asynchronous Multi-Body Framework)</li>
             <li>Python</li>
             <li>Matlab</li>
+            <li>Pytorch</li>
+            <li>TensorFlow</li>
+            <li>PyQt</li>
+            <li>VTK</li>
+            <li>ITK</li>
+            <li>VMTK</li>
+            <li>Slicer</li>
             <li>Object-Oriented Programming(OOP)</li>
             <li>Machine Learning</li>
             <li>Deep Learning</li>
@@ -304,6 +594,7 @@
             <li>Linux</li>
             <li>C++</li>
             <li>C</li>
+            <li>VREP</li>
             <li>Simulink</li>
             <li>Arduino</li>
             <li>LabVIEW</li>
