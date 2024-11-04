@@ -5,165 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372e625-04db-4c9e-8a1e-63d1e8affc83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_breakpoint.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_context.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_helpers.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_legacy-settings.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_no-query.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_parsers.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_respond-to.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/05c50be5aa7268ed726cdf529e41d221dbb47b63/_settings.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/1164a3b1d1b954f503126d378bc1462b805ec1c3/_susy.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/1924a8854a7e6e0c3cba4c70b83a7782f43d5550/_container.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/1924a8854a7e6e0c3cba4c70b83a7782f43d5550/_end.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/1924a8854a7e6e0c3cba4c70b83a7782f43d5550/_isolate.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/1924a8854a7e6e0c3cba4c70b83a7782f43d5550/_span.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3add6d23c447263f55bea68a6a5bb6b5d2601711/_background.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3add6d23c447263f55bea68a6a5bb6b5d2601711/_container.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3add6d23c447263f55bea68a6a5bb6b5d2601711/_direction.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3add6d23c447263f55bea68a6a5bb6b5d2601711/_inspect.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3add6d23c447263f55bea68a6a5bb6b5d2601711/_margins.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3add6d23c447263f55bea68a6a5bb6b5d2601711/_output.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3add6d23c447263f55bea68a6a5bb6b5d2601711/_padding.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/60782f95d655c39dfc9a9c18116f8ee0d483e746/_resolution.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/67071d2211db5dd204f4cb09381cde1953c9e1e2/_float.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/67071d2211db5dd204f4cb09381cde1953c9e1e2/_shared.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/67071d2211db5dd204f4cb09381cde1953c9e1e2/_support.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/8f0ca31b7b8cc7907952b63ec116974cb4c1234e/_default.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_animated.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_bordered-pulled.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_core.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_fixed-width.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_functions.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_icons.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_list.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_mixins.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_rotated-flipped.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_screen-reader.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_sizing.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_stacked.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/_variables.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/brands.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/fontawesome.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/98736443130e84560e42c71c521c8a0ebbbfa214/solid.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/9885fbbd8c7514be817d17e7506d73dec99ab5cb/_background.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/9885fbbd8c7514be817d17e7506d73dec99ab5cb/_box-sizing.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/9885fbbd8c7514be817d17e7506d73dec99ab5cb/_clearfix.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/9885fbbd8c7514be817d17e7506d73dec99ab5cb/_prefix.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/9885fbbd8c7514be817d17e7506d73dec99ab5cb/_rem.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/9885fbbd8c7514be817d17e7506d73dec99ab5cb/_support.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/bfbb387405fcf2c47d392b9923db8cc277f8b2d8/_susy.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/c1939277848fcee48772d9dbf85be76d473f7a16/_default.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/cd6a4c6b118a751050e56d27e4e16d05529f5ccc/_su.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_background.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_bleed.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_box-sizing.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_breakpoint-plugin.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_container.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_context.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_gallery.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_grids.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_gutters.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_isolate.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_margins.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_padding.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_rows.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_settings.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_span.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1a1d227111dd781ec1c06606cdf5635c22c9f66/_validation.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_animations.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_archive.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_base.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_buttons.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_footer.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_forms.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_masthead.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_mixins.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_navigation.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_notices.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_page.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_print.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_reset.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_sidebar.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_syntax.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_tables.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_utilities.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e32a708313cc2b7f8fbeed30b84ec3eca3b9bbc4/_variables.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ee2c5bc0256b94f78f7a50cab45dd331a7411644/_magnific-popup.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ee2c5bc0256b94f78f7a50cab45dd331a7411644/_settings.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ef3c64c8b700b5499e637167dcfb50ae105bed6d/_grid.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ef3c64c8b700b5499e637167dcfb50ae105bed6d/_settings.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ef3c64c8b700b5499e637167dcfb50ae105bed6d/_utilities.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ef3c64c8b700b5499e637167dcfb50ae105bed6d/_validation.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f286b89bab37da3d8373382536442bca16991ab2/_default-pair.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f286b89bab37da3d8373382536442bca16991ab2/_default.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f286b89bab37da3d8373382536442bca16991ab2/_double-string.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f468be221778afb2714f76969a409e14d92a8b5f/_double.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f468be221778afb2714f76969a409e14d92a8b5f/_query.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f468be221778afb2714f76969a409e14d92a8b5f/_resolution.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f468be221778afb2714f76969a409e14d92a8b5f/_single.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f468be221778afb2714f76969a409e14d92a8b5f/_triple.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/media/icons/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/media/stacked-peaks.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/hugo.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/languages.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/menus.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/module.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/admin/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/admin/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/event/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/event/example/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/event/example/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/experience.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/line-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/data-visualization/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/get-started/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/get-started/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/project-management/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/project-management/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/second-brain/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/second-brain/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/teach-courses/ambient-piano.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/teach-courses/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/teach-courses/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/project/pandas/featured.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/project/pandas/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/project/pytorch/featured.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/project/pytorch/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/project/scikit/featured.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/project/scikit/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/conference-paper/cite.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/conference-paper/conference-paper.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/conference-paper/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/conference-paper/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/journal-article/cite.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/journal-article/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/journal-article/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/preprint/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/preprint/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/teaching/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/teaching/js/ambient-piano.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/teaching/js/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/teaching/js/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/teaching/python/ambient-piano.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/teaching/python/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/teaching/python/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugoblox.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/hooks/head-end/github-button.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/uploads/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,27 +16,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oN5DRKequ5SQMsHRgdBdhbg51X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devel",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;devel&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -210,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730697073373</updated>
-      <workItem from="1730697074686" duration="5103000" />
+      <workItem from="1730697074686" duration="5778000" />
+      <workItem from="1730703213088" duration="772000" />
     </task>
     <servers />
   </component>
